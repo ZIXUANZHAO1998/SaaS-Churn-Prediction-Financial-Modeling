@@ -37,8 +37,8 @@ Exported ML outputs to an interactive Excel model to calculate **Expected Loss**
 | Risk Category | Key Driver | Financial Exposure |
 | :--- | :--- | :--- |
 | 🔴 **High Risk** | Month-to-Month | **$88,529.66** |
-| 🟡 Medium Risk | Variable | $XX,XXX |
-| 🟢 Low Risk | Long-term Contract | $XX,XXX |
+| 🟡 Medium Risk | Variable | $27,790.46 |
+| 🟢 Low Risk | Long-term Contract | $24,786.64 |
 
 ---
 
